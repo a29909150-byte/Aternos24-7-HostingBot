@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "sai_1123.aternos.me",
-    "port": 32404,
+    "ip": "sai_1123-rls8.aternos.me",
+    "port": 16835,
     "version": "",
     "try-creative": false
   },
